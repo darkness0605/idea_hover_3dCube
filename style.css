@@ -9,3 +9,5 @@ body{
     width: 70%;
     margin: 0 auto 0;
 }
+
+[data-path]{transition: all 1s;}
